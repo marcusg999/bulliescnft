@@ -6,6 +6,10 @@
     "build": "vite build",
     "serve": "vite preview"
   },
+  "engines": {
+    "npm": "8.4.1",
+    "node": "17.5.0"
+  },
   "devDependencies": {
     "vite": "^2.3.0"
   },
